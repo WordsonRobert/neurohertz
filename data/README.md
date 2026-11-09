@@ -1,7 +1,5 @@
 # Data
 
-This folder is empty in the repo. Put your dataset here.
-
 ## Dataset
 
 **OpenNeuro ds004504**  
